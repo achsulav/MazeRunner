@@ -252,21 +252,3 @@ void Timer(int startTime, int duration) {
     setcolor(WHITE);
     outtextxy(400, 20, timerText);
 }
-Error Icon
-Address not found
-Your message wasn't delivered to gangadharshsh12@gmail.com because the address couldn't be found, or is unable to receive mail.
-LEARN MORE
-The response was:
-550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuchUser a1e0cc1a2514c-85b0f6ca41asor132593241.1 - gsmtp
-
-
-
-
----------- Forwarded message ----------
-From: "Sûlãv Āçhåryâ" <mrsulav8@gmail.com>
-To: gangadharshsh12@gmail.com
-Cc: 
-Bcc: 
-Date: Fri, 22 Nov 2024 09:12:02 -1200
-Subject: Maze Game
------ Message truncated -----
